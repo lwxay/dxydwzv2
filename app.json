@@ -12,7 +12,7 @@
             "value": "061b6971-cfcc-4117-a663-d8467d276fd5"
         },
         "CADDYIndexPage": {
-            "description": "自定义CADDY部署完成后点击View的显示页面，参考：https://github.com/DaoChen6/lwxay/dxydwzv2/master/etc/CADDYIndexPage.md",
+            "description": "自定义CADDY部署完成后点击View的显示页面，参考：https://github.com/DaoChen6/IF-XTW/lob/master/etc/CADDYIndexPage.md",b
             "value": "https://raw.githubusercontent.com/caddyserver/dist/master/welcome/index.html"
         },
         "CONFIGCADDY": {

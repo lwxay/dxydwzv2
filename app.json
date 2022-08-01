@@ -1,7 +1,7 @@
 {
-    "name": "IF-XTW",
-    "description": "IF-XTW",
-    "keywords": ["vmess vless trojan shadowsocks socks"],
+    "name": "dxydwzv2",
+    "description": "dxydwzv2",
+    "keywords": ["vmes vles trojan shadowsocks socks"],
     "env": {
         "AA": {
             "description": "初阶用户只需修改以下AUUID点击页面最后的Deploy app按钮即可开始部署",
@@ -9,10 +9,10 @@
         },
         "AUUID": {
             "description": "UUID充当各个配置的路径和账号密码，建议修改和妥善保存,可生成UUID的网站: https://www.uuidgenerator.net",
-            "value": "8f91b6a0-e8ee-11ea-adc1-0242ac120002"
+            "value": "061b6971-cfcc-4117-a663-d8467d276fd5"
         },
         "CADDYIndexPage": {
-            "description": "自定义CADDY部署完成后点击View的显示页面，参考：https://github.com/DaoChen6/IF-XTW/blob/master/etc/CADDYIndexPage.md",
+            "description": "自定义CADDY部署完成后点击View的显示页面，参考：https://github.com/DaoChen6/lwxay/dxydwzv2/master/etc/CADDYIndexPage.md",
             "value": "https://raw.githubusercontent.com/caddyserver/dist/master/welcome/index.html"
         },
         "CONFIGCADDY": {
